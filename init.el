@@ -20,9 +20,7 @@
   (when (not (package-installed-p p))
     (package-install p)))
 
-<<<<<<< HEAD
 
-=======
 ;;;;;;;;;;;;;;;;;;
 ;; START GLOBAL ;;
 ;;;;;;;;;;;;;;;;;;
